@@ -58,7 +58,7 @@ public class LoginActivity extends AppCompatActivity {
 //                }
                 else {
                     Retrofit retrofit = new Retrofit.Builder()
-                            .baseUrl("https://ap-southeast-1.aws.data.mongodb-api.com/app/application-2024-cyjumrf/endpoint/getPenggunaByUsernamePassword")
+                            .baseUrl("https://ap-southeast-1.aws.data.mongodb-api.com/app/application-2024-cyjumrf/endpoint/")
                             .build();
 
 //                    Toast.makeText(getApplicationContext(), "Pengguna tidak terdaftar", Toast.LENGTH_SHORT).show();
