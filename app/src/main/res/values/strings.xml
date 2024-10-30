@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="university">IPB University</string>
+    <string-array name="mahasiswa">
+        <item>Adrian</item>
+        <item>Bagas</item>
+        <item>Cecep</item>
+        <item>Dora</item>
+        <item>Ebin</item>
+        <item>Frizaski</item>
+        <item>Gading</item>
+        <item>Harimau</item>
+        <item>Ikan</item>
+        <item>Jerapah</item>
+        <item>Kelapa</item>
+        <item>Manusia</item>
+        <item>Nasi</item>
+        <item>Oke</item>
+        <item>Pisang</item>
+        <item>Queen</item>
+        <item>Rambutan</item>
+        <item>Star</item>
+        <item>Tutup</item>
+        <item>Unta</item>
+        <item>View</item>
+        <item>Waw</item>
+        <item>Xiam</item>
+        <item>Yaudah</item>
+        <item>Zolla</item>
+        <item>Zero</item>
+    </string-array>
+</resources>
